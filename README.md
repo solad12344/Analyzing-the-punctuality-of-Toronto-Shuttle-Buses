@@ -11,20 +11,19 @@ Now, I’m turning my frustration and curiosity into action. This project isn’
 
 Hence, The objectives for this project are:
 
-Understanding the Patterns of Delays.
+1. Understanding the Patterns of Delays.
 2. Quantifying the Impact by Total Number of Incident and Total Delay.
-
-Identifying Key Problem Areas.
-
-Time-of-Day Analysis for various categories affecting the delay time.
-
-Simulating Improvement Scenarios.
-
-Recommendations
+3. Identifying Key Problem Areas.
+4. Time-of-Day Analysis for various categories affecting the delay time.
+5. Simulating Improvement Scenarios.
+6. Recommendations
 
 Based on the Objectives, I came up with several visual that will help me get the answers I need.
 
 Counting the Cost of Delays: The Hidden Price of Public Transit
+
+![image](https://github.com/user-attachments/assets/01aec877-c9ed-4615-9f9e-30b2c760c127)
+
 
 Dashboard 1 Depicting how much time you lost waiting for delayed buses
 This visual, a part of my project’s data analysis tool, allowed users to select a route, time of day, and whether it was a weekday or weekend. It then calculated the total time lost due to delays. Seeing the hard numbers in front of me transformed my personal annoyance into a concrete problem, one that was not just mine but shared by countless others who depended on route 11 to navigate their daily lives.
@@ -34,6 +33,8 @@ There it was, quantified and impossible to ignore. If I’d taken route 11 every
 This discovery fueled my determination to delve deeper. It wasn’t just about my own losses anymore. It was about a systemic failure that affected a community of commuters. The numbers on the screen became more than just a personal grievance; they were a call to action. I was ready to challenge the status quo, armed with data and a newfound resolve to advocate for change. The next step was to present these findings to those who had the power to make a difference. It was time to turn the tide on time lost and make every minute count.
 
 Decoding TTC Delays: Understanding the Odds of a Late Bus Ride
+![image](https://github.com/user-attachments/assets/136d1d34-b5ae-47ac-95ea-0eb31e6dd0cb)
+
 Dashboard 2 shows the Bus Delay causes
 The next visual in my analysis was just as startling, laying bare the intricate web of reasons behind the delays. It was a detailed pie chart of probabilities, a gamble every commuter unknowingly took when they stepped onto a TTC bus.
 
@@ -46,6 +47,8 @@ These figures painted a picture of tax money not just being spent, but wasted �
 The chart became another piece of the puzzle in my project, a visual representation of a problem that was more than just personal. It was a systemic failure that echoed in the empty promises of bus schedules and the sighs of stranded passengers. With this data, I aimed to raise awareness, to bring to light the need for reform, for accountability, and for the responsible use of the funds that we, as citizens, contributed to keep the city moving. The journey for answers had become a crusade for change, one pie chart at a time.
 
 Analyzing the Ebb and Flow of Transit Delays: A Yearly TTC Synopsis
+![image](https://github.com/user-attachments/assets/c4418fca-f808-452f-93cc-94fba701cf2e)
+
 Dashboard 3 shows the Yearly Delay Analysis of TTC Bus
 The next set of visuals presented a clear, data-driven picture of TTC delays. The bar graph showed fluctuations in delays year over year, with a significant spike in 2019 that warranted a closer look. To the side, pie charts dissected these delays by their causes, revealing that mechanical and general delays were the most significant contributors to the problem.
 
@@ -56,6 +59,8 @@ This information was crucial. It wasn’t just the inconvenience of waiting that
 By integrating these findings into my project, I began to see the scope of change needed in the TTC system. It was apparent that taxpayer money wasn’t being optimized, leading to repeated service disruptions. This data could be pivotal in advocating for a strategic review and reallocation of funds to address the root causes of these delays, ensuring more reliable service for Toronto’s commuters.
 
 Timing and Location of Transit Delays: A Closer Look at TTC’s Trouble Spots
+![image](https://github.com/user-attachments/assets/07d4a393-e7fc-4e1c-9851-ae31aa87061c)
+
 Dashboard 4 shows the Delays and their location
 This visual focused on the timing and locations where the TTC faced the most delays. The title at the top, “Which Incidents causes the most delay, When does it happen and Where?” set the stage for a deep dive into the specifics of the transit system’s weak points.
 
@@ -68,6 +73,8 @@ The time-of-day bar at the bottom (where users can choose the time of day to fig
 Bringing this visual into my growing project, I saw a narrative forming — a story of a transit system with identifiable patterns of disruption. This chart wasn’t just another set of statistics; it was a roadmap for where and when to concentrate improvements.
 
 Strategic Impact Assessment: Reducing TTC Delays Through Targeted Actions
+![image](https://github.com/user-attachments/assets/4b4d0080-55ef-4e0b-9892-01b4e0f089c5)
+
 Dashboard 5 is the Delay Simulation
 The final piece of the puzzle in my investigation was a dynamic ‘Delay Simulation’ tool. The tool’s interface was straightforward, yet the data it crunched in the background was anything but simple. It displayed a stark figure: 195.96K incidents had led to a total of 402K minutes of delay.
 
